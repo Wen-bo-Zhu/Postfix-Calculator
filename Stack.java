@@ -1,4 +1,4 @@
-package homework2;
+package ;
 
 public interface Stack<E>{
 
