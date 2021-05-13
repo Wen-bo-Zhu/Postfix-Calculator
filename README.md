@@ -1,6 +1,7 @@
 # Postfix-Calculator
 
 PostfixCalculator class:
+
 ● The Calculator class will instantiate an object of the Converter class in order to
 have the infix expression converted to a postfix expression.
 
