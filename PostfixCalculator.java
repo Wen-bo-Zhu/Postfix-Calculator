@@ -1,4 +1,4 @@
-package homework2;
+package ;
 
 public class PostfixCalculator {
 	private double res;
